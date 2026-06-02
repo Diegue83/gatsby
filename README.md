@@ -156,3 +156,21 @@ Licensed under the [MIT License](./LICENSE).
 Thanks go out to all our many contributors creating plugins, starters, videos, and blog posts. And a special appreciation for our community members helping with issues and PRs, or answering questions on GitHub Discussions.
 
 A big part of what makes Gatsby great is each and every one of you in the community. Your contributions enrich the Gatsby experience and make it better every day.
+
+# Student Contribution
+
+## Developer Information
+
+- Name: Juan Diego Juarez Cruz
+- University: Universsidad Tecnologica del Norte de Guanajuato
+- Date: 01/06/2026
+
+## Proposed Improvements
+
+1. Improve code organization by separating responsibilities into smaller, reusable components.
+2. Add input validations and error handling to improve application stability.
+3. Enhance the user interface by providing clearer feedback messages and improving navigation.
+
+## Observations
+
+The project follows a functional structure and meets the main requirements. However, there are opportunities to improve maintainability, readability, and user experience. Implementing additional validations, refactoring repetitive code, and improving documentation would facilitate future development and reduce potential errors.
